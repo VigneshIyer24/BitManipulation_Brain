@@ -1,3 +1,11 @@
+/* Created by Vignesh Iyer
+
+Bit Manipulation using basic C functions
+Date: 23th February, 2019
+
+*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include "message.h"
